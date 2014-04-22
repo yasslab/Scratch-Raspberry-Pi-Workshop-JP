@@ -1,15 +1,15 @@
-Scratch + Raspberry Pi workshop
+Scratch + Raspberry Pi ワークショップ
 ===============================
 
-The 1.5-hour workshop for kids to learn Programming & Prototyping from scratch.
+1.5時間で学ぶ! 子供向けプログラミングワークショップ
 
-## Slides
+## スライド資料
 
-[![Cover Slide](https://raw.githubusercontent.com/yasulab-inc/Scratch-Raspberry-Pi-Workshop/master/images/cover.png)](http://yasulab.com/Scratch-Raspberry-Pi-Workshop/)
+[![Cover Slide](https://raw.githubusercontent.com/yasulab-inc/Scratch-Raspberry-Pi-Workshop-JP/master/images/cover.png)](http://yasulab.com/Scratch-Raspberry-Pi-Workshop-JP/)
 
-You can check out the slides from [HERE](http://yasulab.com/Scratch-Raspberry-Pi-Workshop/).
+スライド資料は[コチラ](http://yasulab.com/Scratch-Raspberry-Pi-Workshop/)から公開しています.
 
-## License
+## ライセンス
 
 The MIT License (MIT)
 
