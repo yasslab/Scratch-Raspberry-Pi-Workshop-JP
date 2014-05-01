@@ -5,7 +5,7 @@ Scratch + Raspberry Pi ワークショップ
 
 ## スライド資料
 
-[![Cover Slide](https://raw.githubusercontent.com/yasulab-inc/Scratch-Raspberry-Pi-Workshop-JP/master/images/cover.png)](http://yasulab.com/Scratch-Raspberry-Pi-Workshop-JP/)
+[![Cover Slide](https://raw.githubusercontent.com/yasulab-co/Scratch-Raspberry-Pi-Workshop-JP/master/images/cover.png)](http://yasulab.com/Scratch-Raspberry-Pi-Workshop-JP/)
 
 スライド資料は[コチラ](http://yasulab.com/Scratch-Raspberry-Pi-Workshop/)から公開しています.
 
