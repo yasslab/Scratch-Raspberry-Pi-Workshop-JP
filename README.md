@@ -5,15 +5,15 @@ Scratch + Raspberry Pi ワークショップ
 
 ## スライド資料
 
-[![Cover Slide](https://raw.githubusercontent.com/yasulab-co/Scratch-Raspberry-Pi-Workshop-JP/master/images/cover.png)](http://yasulab.com/Scratch-Raspberry-Pi-Workshop-JP/)
+[![Cover Slide](https://raw.githubusercontent.com/yasslab/Scratch-Raspberry-Pi-Workshop-JP/master/images/cover.png)](http://yasslab.jp/ja/workshops/raspi/)
 
-スライド資料は[コチラ](http://yasulab.com/Scratch-Raspberry-Pi-Workshop/)から公開しています.
+スライド資料は[コチラ](http://yasslab.jp/ja/workshops/raspi/)から公開しています.
 
 ## ライセンス
 
 The MIT License (MIT)
 
-Copyright (c) 2014 YasuLab & Co.
+Copyright (c) 2014 YassLab.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
